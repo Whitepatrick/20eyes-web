@@ -35,25 +35,9 @@
 <?php include('scripts/past-work.js'); ?>
 </script>
 
-</div>  <!--end #nav -->
-
-
-<div id="content">
-
-<input type="submit" id="about" class="myButton" value="about." />
-<div class="box">
-<p>when you're seeing 20 things at a time you just can't slow things down</p>
-</div>
-
-<input type="submit" id="past-work" class="myButton" value="past work." />
-<div class="box">
-<p>when you're seeing 20 things at a time you just can't slow things down</p>
-</div>
-
-</div>
+<?php include('includes/buttons.php'); ?>
 
 <div id="content">
-
 
 <h1>Heading1</h1>
 <h2>Heading2</h2>
