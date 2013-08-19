@@ -16,7 +16,7 @@
 <meta name="author" content="" />
 
 <link rel="stylesheet" type="text/css" href="style.css" media="screen"/>
-<link rel="stylesheet" type="text/css" href="scripts/jquery.terminal.css" media="screen"/>
+<link rel="stylesheet" type="text/css" href="jquery.terminal.css" media="screen"/>
 
 <title>20 Eyes Dot Org PHP Template</title>
 
