@@ -5,7 +5,7 @@
 
 <head>
 <script src="scripts\jquery-2.0.3.js"></script>
-
+<script src="scripts\jquery.terminal-0.7.5.js"></script>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 
 <meta name="description" content="" />
@@ -14,8 +14,8 @@
 
 <meta name="author" content="" />
 
-<link rel="stylesheet" type="text/css" href="style.css" media="screen"
-/>
+<link rel="stylesheet" type="text/css" href="style.css" media="screen"/>
+<link rel="stylesheet" type="text/css" href="scripts/jquery.terminal.css" media="screen"/>
 
 <title>20 Eyes Dot Org PHP Template</title>
 
