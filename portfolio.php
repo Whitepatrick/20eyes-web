@@ -4,7 +4,9 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
 <head>
-<script src="scripts\jquery-2.0.3.js"></script>
+<script src="scripts/jquery-2.0.3.js"></script>
+<script src="scripts/jquery.terminal-0.7.5.js"></script>
+<script src="scripts/term_test.js"></script>
 
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 
@@ -14,8 +16,8 @@
 
 <meta name="author" content="" />
 
-<link rel="stylesheet" type="text/css" href="style.css" media="screen"
-/>
+<link rel="stylesheet" type="text/css" href="style.css" media="screen"/>
+<link rel="stylesheet" type="text/css" href="jquery.terminal.css" media="screen"/>
 
 <title>20 Eyes Dot Org PHP Template</title>
 
@@ -29,6 +31,8 @@
 <?php include('includes/header.php'); ?>
 
 <?php include('includes/nav.php'); ?>
+
+<?php include('includes/term_test.php'); ?>
 
 <?php include('includes/sidebar.php'); ?>
 

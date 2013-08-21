@@ -4,9 +4,9 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
 <head>
-<script src="scripts\jquery-2.0.3.js"></script>
-<script src="scripts\jquery.terminal-0.7.5.js"></script>
-<script src="scripts\terminal.js"></script>
+<script src="scripts/jquery-2.0.3.js"></script>
+<script src="scripts/jquery.terminal-0.7.5.js"></script>
+<script src="scripts/terminal.js"></script>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 
 <meta name="description" content="" />
@@ -31,9 +31,7 @@
 
 <?php include('includes/nav.php'); ?>
 
-<script>
-<?php include('scripts/terminal.js'); ?>
-</script>
+<?php include('includes/terminal.php'); ?>
 
 <?php include('includes/sidebar.php'); ?>
 

@@ -1,5 +1,5 @@
 jQuery(function($, undefined) {
-    $('#term_demo' + id='terminal').terminal(function(command, term) {
+    $('#terminal').terminal(function(command, term) {
         if (command !== '') {
             try {
                 var result = window.eval(command);
@@ -13,8 +13,8 @@ jQuery(function($, undefined) {
            term.echo('');
         }
     }, {
-        greetings: 'Javascript Interpreter',
+        greetings: 'Welcome to 20 Eyes',
         name: 'js_demo',
         height: 200,
-        prompt: 'js> '});
+        prompt: 'user@20eyes:# '});
 });
