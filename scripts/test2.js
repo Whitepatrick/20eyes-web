@@ -1,7 +1,9 @@
-var foo = 7 !== 6;
+var names = [];
 
-if (5 < 6) {
-	alert("5 is less than 6");
-}
+do {
+	var element = names.pop();
 
-alert("this is outside of the if statement");
+	alert(element);
+} while (names.length > 0);
+
+alert("This is outside the loop.");
