@@ -6,7 +6,7 @@
 		</head>
 	<body>
 
-	<script src="../scripts/test1.js">
+	<script src="../scripts/test2.js">
 	</script>
 	</body>
 </html>
