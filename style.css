@@ -11,6 +11,14 @@ margin:0;
 padding:0;
 }
 
+p {
+	font-family: sans-serif;
+}
+
+li {
+	font-family: sans-serif;
+}
+
 .myButton {
 background-color:#666666;
 border:none;
@@ -80,6 +88,7 @@ padding:10px;
 }
 
 #nav {
+font-family:sans-serif;
 width:960px;
 height:40px;
 border-bottom:1px solid #ccc;
@@ -106,7 +115,7 @@ font-family:blackFlag;
 
 
 #content {
-width:675px;
+width:725px;
 float:left;
 padding:10px;
 }
@@ -132,6 +141,7 @@ clear:both;
 width:960px;
 height:135px;
 border-top:1px solid $ccc;
+border-bottom:1px solid $ccc;
 }
 
 #footer p {

@@ -1,0 +1,22 @@
+twitter info
+
+OAuth settings
+
+Your application's OAuth settings. Keep the "Consumer secret" a secret. This key should never be human-readable in your application.
+
+Access level	 Read-only 
+About the application permission model
+Consumer key	XTgKOQzkdSgrUmlhMGPlA
+Consumer secret	KXKvSDUnEkoIaeGzV2M9Fa2d3a7ZW2P57m6zojf1Y
+Request token URL	https://api.twitter.com/oauth/request_token
+Authorize URL	https://api.twitter.com/oauth/authorize
+Access token URL	https://api.twitter.com/oauth/access_token
+Callback URL	None
+Sign in with Twitter	No
+Your access token
+
+Use the access token string as your "oauth_token" and the access token secret as your "oauth_token_secret" to sign requests with your own Twitter account. Do not share your oauth_token_secret with anyone.
+
+Access token	1636390368-lXdBiqrrqMTIiO5qVsfI9aBtCTxQ8qYVEyOkzvM
+Access token secret	Qq0zYLX0u91zTasBXx40lYmtNDjfzzSncfyJVpybg8
+Access level	Read-only

@@ -1,6 +1,6 @@
 <div id="nav">
 
-	<a href="index_.php">Home</a>
+	<a href="index.php">Home</a>
 	<a href="backlog.php">Backlog</a>
 	<a href="indev.php">In Development</a>
 	<a href="active.php">Active Projects</a>

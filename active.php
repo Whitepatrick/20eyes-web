@@ -7,14 +7,13 @@
 
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 
-<meta name="description" content="20 Eyes Contact" />
+<meta name="description" content="20 Eyes Active Projects" />
 
-<meta name="keywords" content="contact" />
+<meta name="keywords" content="active projects" />
 
 <meta name="author" content="Patrick White" />
 
-<link rel="stylesheet" type="text/css" href="style.css" media="screen"
-/>
+<link rel="stylesheet" type="text/css" href="style.css" media="screen"/>
 
 <title>20 Eyes Dot Org</title>
 
@@ -28,7 +27,6 @@
 <?php include('includes/header.php'); ?>
 
 <?php include('includes/nav.php'); ?>
-
 
 <?php include('includes/footer.php'); ?>
 

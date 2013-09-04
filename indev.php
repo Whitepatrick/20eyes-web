@@ -7,14 +7,13 @@
 
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 
-<meta name="description" content="20 Eyes Contact" />
+<meta name="description" content="20 Eyes In Development" />
 
-<meta name="keywords" content="contact" />
+<meta name="keywords" content="development" />
 
 <meta name="author" content="Patrick White" />
 
-<link rel="stylesheet" type="text/css" href="style.css" media="screen"
-/>
+<link rel="stylesheet" type="text/css" href="style.css" media="screen"/>
 
 <title>20 Eyes Dot Org</title>
 
@@ -29,8 +28,13 @@
 
 <?php include('includes/nav.php'); ?>
 
+<?php include('includes/term_test.php'); ?>
 
 <?php include('includes/footer.php'); ?>
+<!-- script -->
+<!-- ?php include('scripts/about.js'); ? -->
+<!-- ?php include('scripts/past-work.js'); ? -->
+<!-- /script -->
 
                 </div>  <!--end #wrapper -->
 
