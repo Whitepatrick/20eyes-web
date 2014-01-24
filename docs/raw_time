@@ -1,0 +1,51 @@
+January 12th 7pm
+
+Installation of Ubuntu 12.10 on to 20eyes.stage
+Updated packages, installed patches
+Set up auto-install of updates
+Configured ufw (uncomplicated firewall, frontend for netfilter's iptables)
+
+reboot
+
+created admin group, added self, set su to be used only by admin group
+disabled root logins
+
+http://www.thefanclub.co.za/how-to/how-secure-ubuntu-1204-lts-server-part-1-basics
+
+January 14th 9pm
+
+Successfully spun up prod.20eyes on rackspace cloud.
+
+adjusted ip tables to allow only certain services to run on 4 different ports
+changed ssh config to allow connections to be made by users who have
+	submitted a public key
+
+http://www.rackspace.com/knowledge_center/article/rackspace-cloud-essentials-3-basic-cloud-server-security?cm_mmc=IB-_-Onboarding-_-FirstServer-_-2
+
+
+***next step get apache server running and launch 20eyes.org
+
+Apache Links
+
+https://help.ubuntu.com/10.04/serverguide/httpd.html
+apache2 info
+
+https://help.ubuntu.com/10.04/serverguide/certificates-and-security.html
+HTTPS info
+
+January 17th 9pm
+
+apache2 server up and running on stage.20eyes with a previous blog I am going to repurpose for this project.
+
+still have to lock things up around the config files for apache server.
+
+January 19th, 11am
+
+20eyes.org is live on both stage and production apache servers. both are tied to the github account.
+
+Had to adjust both godaddy name server settings as well as setting up records for the rackspace server (A, AAAA, CNAME)
+
+January 20th 9:30pm
+
+Finally got subfolders to not show contents to anyone who happens to figure out the web file structure on the prod server. Simple adjustment to the httpd.conf file in /etc/apache2.
+
