@@ -34,13 +34,13 @@
 
 <a href="diagrams.php"><h3>Diagrams located here</h3></a>
 
-<!--<?php
+<?php
 $rawTime = "docs/raw_time";
 $fh = fopen($rawTime, 'r');
 $theData = fread($fh, filesize($rawTime));
 fclose($fh);
 echo $theData;
-?> -->
+?>
 
 </div>
 
