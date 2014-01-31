@@ -32,7 +32,10 @@
 
 <div id="content">
 
-<a href="diagrams.php"><h3>Diagrams located here</h3></a>
+<a href="diagrams.php"><h3>Diagrams located here</h3></a></br>
+
+
+<h3>Journal and Notes</h3>
 
 <?php
 $rawTime = "docs/raw_time";

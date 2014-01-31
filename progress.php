@@ -34,9 +34,19 @@
 
 <h1>Work In Progress</h1>
 
-<h2>CURRENT: Site Creation</h2>
+<h2>CURRENT: Back end work</h2>
 
-<p>Currently creating all pages and setting up working links. By the end of tonight (January 24th) I would like to have a bare bones site to accomodate forthcoming content that will document my contiuous deployment project. Very Excited!</p>
+<p>Now working on a feature for the site that will allow
+the user to create an account, upload an image, and submit a
+comment with the image. All managed by mongodb, scripted
+with php. It will be a new git branch to be merged after testing.</p>
+
+
+<h2>Past:</h2>
+
+<h3> Site Creation</h3>
+
+<p>Now creating all pages and setting up working links. By the end of tonight (January 24th) I would like to have a bare bones site to accomodate forthcoming content that will document my contiuous deployment project. Very Excited!</p>
 
 </div>
 
