@@ -34,6 +34,7 @@
 <h3>Contact Information</h3>
 <p>Patrick White</p>
 <a href="mailto:whitep@vcu.edu"><p>whitep@vcu.edu</p></a>
+<a href="https://github.com/whitepatrick"<p>My GitHub page</p></a>
 
 <h3>Social Media</h3>
 
