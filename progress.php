@@ -34,7 +34,7 @@
 
 <h1>Work In Progress</h1>
 
-<h2>CURRENT: MongoDC + PHP</h2>
+<h2>CURRENT: MongoDB + PHP</h2>
 
 <p>After looking over several different login scripts for MongoDB
 in PHP I finally started developing one of my own to be custom fit
