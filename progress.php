@@ -41,7 +41,10 @@ in PHP I finally started developing one of my own to be custom fit
 to 20eyes.org unique infrastructure. After watching some of the logs
 while sending some DB traffic to the server I'm VERY excited about
 what I saw. Will have this problem fixed in the next day or so.</p>
-
+<p><b>Update:</b> Just got a script working that allows user to
+enter username and pw on main page and script enters that info in to
+mongodb collection. Next step is write script to authenticate user after
+information entry</p>
 
 <h2>Past:</h2>
 
