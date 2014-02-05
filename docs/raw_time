@@ -56,4 +56,12 @@ feature is ready to go. Interested to see how the merge goes.
 Working on a new script to log in to member services of 20eyes. 
 Hopefully it will be fixed in the next few days
 
+<b>February 5th 3:42pm</b>
+
+Finished writing script to register a new user in to mongo 
+collection, very excited about that. Also finally did some 
+cleaning up in all of the git repos I have, and moved stage
+and prod web dir's to /var/www where it should be compared to
+where it was B) 
+
 </pre>
