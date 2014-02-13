@@ -1,7 +1,6 @@
 <div id="nav">
 
 	<a href="index.php">Home</a>
-	<a href="progress.php">In Progress</a>
 	<a href="schedule.php">Schedule</a>
 	<a href="docs.php">Documentation</a>
 	<a href="tools.php">Tools Used</a>
