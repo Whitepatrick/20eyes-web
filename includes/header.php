@@ -1,5 +1,5 @@
 <div id="header">
 
-	<h2>20 Eyes Dot Org</h2>
+	<h1>20 Eyes Dot Org</h1>
 
-</div> <!-- end #header -->
+</div> 
