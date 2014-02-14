@@ -34,9 +34,9 @@
 <div id="content">
 
 <h1>20 Eyes dot Org</h1>
-<h3>Exporation into the world of Contiuous Deployment</h3>
+<h3>Exporation into the World of Contiuous Deployment</h3>
 
-<p>This site is contains all information and documentation on my independent study project during my last semester at Virginia Commonwealth University. My goal is to create a contiuous deployment environment between 2 nodes. Along the way I hope to enhance my knowledge of front and backend web technologies. I offer this page up to prospective employers as a window to things I have learned in past job experiences, as well as knowledge gained while studying at VCU.</p> 
+<p>This site is contains all information and documentation on my independent study project during my last semester at Virginia Commonwealth University. My goal is to create a continuous deployment environment between 2 nodes. Along the way I hope to enhance my knowledge of front and backend web technologies. I offer this page up to prospective employers as a window to things I have learned in past job experiences, as well as knowledge gained while studying at VCU.</p> 
 
 <?php include('progress.php') ?>
 
