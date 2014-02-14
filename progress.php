@@ -2,6 +2,8 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <h1>Work In Progress</h1>
 
+<img src="images/desk.png">
+
 <h2>CURRENT: Jenkins-CI Installation and configuration</h2>
 
 <a href="http://jenkins-ci.org/" target="_blank"><img src="images/jenkins.png"></a> 
