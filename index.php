@@ -29,7 +29,7 @@
 
 <?php include('includes/nav.php'); ?> 
 
-
+<?php include('includes/sidebar.php'); ?>
 
 <div id="content">
 

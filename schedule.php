@@ -30,6 +30,8 @@
 
 <?php include('includes/nav.php'); ?>
 
+<?php include('includes/sidebar.php'); ?>
+
 <div id="content">
 
 <h2>Project schedule for spring 2014 semester</h2>

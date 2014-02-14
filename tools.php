@@ -30,6 +30,8 @@
 
 <?php include('includes/nav.php'); ?>
 
+<?php include('includes/sidebar.php'); ?>
+
 <div id="content">
 
 <h1>Tools used in this project</h1>

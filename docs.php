@@ -30,6 +30,8 @@
 
 <?php include('includes/nav.php'); ?>
 
+<?php include('includes/sidebar.php'); ?>
+
 <div id="content">
 
 <a href="diagrams.php"><h3>Diagrams located here</h3></a></br>
