@@ -4,7 +4,18 @@
 
 <!--img src="images/desk.png" -->
 
-<h2>CURRENT: Jenkins-CI Installation and configuration</h2>
+<h2>CURRENT: Hitting some road blocks! </h2>
+
+<p>I've been ending up stumped on getting Jenkins to actually transfer the files that have been changed after polling GitHub. I am getting everything else right; Build is successfull, SSH connection made, but then 0 files transfer. Here is output:</p>
+<br><img src="images/jenkins-error.png"></br>
+
+<p>I'm considering a different method of deploying as well as wrapping my brain around the transfer set issue in Jenkins. After <b>MUCH</b> googling I see that others have the same issue as me and it could be a configuration issue with the way my project is set up. This isn't a huge problem since there are other tools that can fill its place. Currently looking in to <a href="https://travis-ci.org/">Travis-CI</a> which seems to be tailor made for GitHub deployment and operates of git hooks.</p>
+
+<p>Another issue raised here is that I'm about a week behind schedule. I can try making up the time but next week I need to attempt to stand up <a href="http://puppetlabs.com/">Puppet</a>. Hoopefully I can extend puppet beyond what I originally planned and make up some time.</p>
+
+<h2>Past:</h2>
+
+<h3>Jenkins-CI Installation and configuration</h3>
 
 <a href="http://jenkins-ci.org/" target="_blank"><img src="images/jenkins.png"></a> 
 
@@ -19,8 +30,6 @@ experience nothing ever works the first time so I will keep plugging away.</p>
 which is probably the most important step in the build process BUT at least all other processes are going off without
 a hitch. SSH connection is smooth, Jenkins is connecting to GitHub and getting polling accurately. I'm still not sure if the scheduler
 is working as it should but I can sort that detail out after I start getting consistant successful builds.</p>
-
-<h2>Past:</h2>
 
 <h3>MongoDB + PHP</h3>
 
