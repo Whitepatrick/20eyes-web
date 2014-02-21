@@ -7,7 +7,7 @@
 <h2>CURRENT: Hitting some road blocks! </h2>
 
 <p>I've been ending up stumped on getting Jenkins to actually transfer the files that have been changed after polling GitHub. I am getting everything else right; Build is successfull, SSH connection made, but then 0 files transfer. Here is output:</p>
-<br><img src="images/jenkins-error.png"></br>
+<br><img src="images/jenkins-error.png"></img></br>
 
 <p>I'm considering a different method of deploying as well as wrapping my brain around the transfer set issue in Jenkins. After <b>MUCH</b> googling I see that others have the same issue as me and it could be a configuration issue with the way my project is set up. This isn't a huge problem since there are other tools that can fill its place. Currently looking in to <a href="https://travis-ci.org/">Travis-CI</a> which seems to be tailor made for GitHub deployment and operates of git hooks.</p>
 
