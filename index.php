@@ -2,8 +2,6 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 
 
-<!-- test -->
-
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
 <head>
@@ -24,6 +22,8 @@
 </head>
 
         <body>
+
+<!-- test test -->
 
                 <div id="wrapper">
 
