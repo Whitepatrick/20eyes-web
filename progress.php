@@ -2,7 +2,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <h1>Work In Progress</h1>
 
-<!-- blah blah blah -->
+<!-- blah blah -->
 
 <h2>CURRENT: Hitting some road blocks! </h2>
 
