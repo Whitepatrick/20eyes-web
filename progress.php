@@ -4,7 +4,13 @@
 
 <!-- blah blah blah -->
 
-<h2>CURRENT: Hitting some road blocks! </h2>
+<h2>CURRENT: Great Success! </h2>
+
+<p>After beating my head against the wall trying to get the SSH transfer job to work in Jenkins for a few weeks, the job is finally completing all steps and builds are stable! The big working piece of this job monitors my <a href="http://www.github.com/Whitepatrick" target="_blank">GitHub</a> repo for any pushes and creates a build when one is made. From there Jenkins SSH's the workspace files to the production server. </br>Console output below:</p></br>
+
+<h2>PAST:</h2>
+
+<h3>Hitting some road blocks!</h3>
 
 <p>I've been ending up stumped on getting Jenkins to actually transfer the files that have been changed after polling GitHub. I am getting everything else right; Build is successfull, SSH connection made, but then 0 files transfer. Here is output:</p>
 <br><img src="images/jenkins-error.jpg" alt="jenkins error"></br>
@@ -13,7 +19,6 @@
 
 <p>Another issue raised here is that I'm about a week behind schedule. I can try making up the time but next week I need to attempt to stand up <a href="http://puppetlabs.com/">Puppet</a>. Hoopefully I can extend puppet beyond what I originally planned and make up some time.</p>
 
-<h2>Past:</h2>
 
 <h3>Jenkins-CI Installation and configuration</h3>
 
