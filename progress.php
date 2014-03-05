@@ -6,8 +6,8 @@
 
 <h2>CURRENT: Great Success! </h2>
 
-<p>After beating my head against the wall trying to get the SSH transfer job to work in Jenkins for a few weeks, the job is finally completing all steps and builds are stable! The big working piece of this job monitors my <a href="http://www.github.com/Whitepatrick" target="_blank">GitHub</a> repo for any pushes and creates a build when one is made. From there Jenkins SSH's the workspace files to the production server. <b>Console output below:</b></p>
-<br><img src="images/console_success.jpg" alt="jenkins success"></br>
+<p>After beating my head against the wall trying to get the SSH transfer job to work in Jenkins for a few weeks, the job is finally completing all steps and builds are stable!<br><b>Console output below:</b></p>
+<img src="images/console_success.jpg" alt="jenkins success"></br>
 
 <p>The journey from the previous errors I was getting and the first stable job was a long and winding one. The job is using the publish over SSH plugin. The build actively polls my GitHub repository frequently throughout the day.
 Whenever Jenkins notices a new push that has been made to the repository it triggers the build. Jenkins gathers all files from the repo and builds them in the workspace. After the build the SSH plugin sends all files on the
