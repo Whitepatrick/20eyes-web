@@ -4,7 +4,15 @@
 
 <!-- blah blah blah -->
 
-<h2>CURRENT: Great Success! </h2>
+<h2>CURRENT: PHP + GridFS = The most fun I've had with MongoDB!</h2>
+
+<img src="images/gridfs.png" alt="MongoDB"><br>
+
+<p>Started a new branch on my <a href="https://github.com/Whitepatrick/20eyes-web/tree/gridfs-upload">GitHub</a> repo for this project that will be a photo upload to MongoDB's GridFS using PHP. Had tried this previously but screwed up the branching on my Git repo, so this is the real deal! I wont make this feature live until I link the authentication section I made previously in PHP and Mongodb. Very excited about PHP and MongoDB!<br><br>Truly wish I would have done different school project that I'm currently working on in MongoDB instead of MySQL. Considering the use case Mongo would have been a better fit and far less complex.
+
+<h2>PAST:</h2>
+
+<h3>Great Success!</h3>
 
 <p>After beating my head against the wall trying to get the SSH transfer job to work in Jenkins for a few weeks, the job is finally completing all steps and builds are stable!<br><b>Console output below:</b></p>
 <img src="images/console_success.jpg" alt="jenkins success"></br>
@@ -12,8 +20,6 @@
 <p>The journey from the previous errors I was getting and the first stable job was a long and winding one. The job is using the publish over SSH plugin. The build actively polls my GitHub repository frequently throughout the day.
 Whenever Jenkins notices a new push that has been made to the repository it triggers the build. Jenkins gathers all files from the repo and builds them in the workspace. After the build the SSH plugin sends all files on the
 workspace to my production server and then the files are live.</p>
-
-<h2>PAST:</h2>
 
 <h3>Hitting some road blocks!</h3>
 
