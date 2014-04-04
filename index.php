@@ -43,6 +43,8 @@
 
 <?php include('progress.php') ?>
 
+<?php include('includes/upload.php') ?>
+
 </div>
 
 <?php include('includes/footer.php'); ?>
