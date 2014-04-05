@@ -8,7 +8,7 @@
 
 <img src="images/gridfs.png" alt="MongoDB"><br>
 
-<p>Started a new branch on my <a href="https://github.com/Whitepatrick/20eyes-web/tree/gridfs-upload">GitHub</a> repo for this project that will be a photo upload to MongoDB's GridFS using PHP. Had tried this previously but screwed up the branching on my Git repo, so this is the real deal! I wont make this feature live until I link the authentication section I made previously in PHP and MongoDB. Very excited about PHP and MongoDB!<br><br>Truly wish I would have done different school project that I'm currently working on in MongoDB instead of MySQL. Considering the use case Mongo would have been a better fit and far less complex.
+<p>Started a new branch on my <a href="https://github.com/Whitepatrick/20eyes-web/tree/gridfs-upload">GitHub</a> repo for this project that will be a photo upload to MongoDB's GridFS using PHP. Had tried this previously but screwed up the branching on my Git repo, so this is the real deal! I won't make this feature live until I link the authentication section I made previously in PHP and MongoDB. Very excited about PHP and MongoDB!<br><br>Truly wish I would have done different school project that I'm currently working on in MongoDB instead of MySQL. Considering the use case Mongo would have been a better fit and far less complex.
 
 <h2>PAST:</h2>
 
