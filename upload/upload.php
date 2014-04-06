@@ -1,3 +1,6 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml-stict.dtd">
+
 <?php
 
 
@@ -35,23 +38,24 @@ default:
 }
 ?>
 
-
-
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-<link rel="stylesheet" type="text/css" href="../style.css" media="screen"/>
+<link rel="Shortcut Icon" href="favicon.ico">
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="description" content="20 Eyes In Development" />
+<meta name="keywords" content="development" />
 <meta name="author" content="Patrick White" />
-
-<title>Upload Files</title>
+<link rel="stylesheet" type="text/css" href="../style.css" media="screen"/>
+<title>20 Eyes Dot Org</title>
 </head>
+        <body>
+                <div id="wrapper">
 
-<body>
+<?php include('../includes/header.php'); ?>
+<?php include('../includes/nav.php'); ?>
+<?php include('../includes/sidebar.php'); ?>
 
-<div id="contentarea">
-<div id="innercontentarea">
+<div id="content">
 <h1>Upload Image</h1>
 <?php if($action === 'upload'): ?>
 <h3>File Uploaded.<br><br>
@@ -77,7 +81,13 @@ name="upload"/>
 </p>
 </form>
 <?php endif; ?>
+<a href="index.php">Return to Image List</a>
+
 </div>
-</div>
-</body>
+
+
+<?php include('../includes/footer.php'); ?>
+
+        </body>
+
 </html>
