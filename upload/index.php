@@ -30,7 +30,7 @@ $objects = $gridFS->find();
                 <div id="wrapper">
 
 <?php include('../includes/header.php'); ?>
-<?php include('../includes/nav.php'); ?>
+<!-- ?php include('../includes/nav.php'); ? -->
 <?php include('../includes/sidebar.php'); ?>
 
 <div id="content">
@@ -65,8 +65,8 @@ data-lightbox="<?php echo $object->file['caption'];?>">
 </table>
 <br>
 <br>
-<a href="upload.php">Upload More</a>
-
+<a href="upload.php">Upload More</a><br>
+<a href="../index.php">Go Back</a>
 </div>
 
 <?php include('../includes/footer.php'); ?>
