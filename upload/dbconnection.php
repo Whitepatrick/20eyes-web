@@ -1,7 +1,7 @@
 <?php
 class DBConnection
 {
-const HOST = 'localhost';
+const HOST = '162.242.208.88';
 const PORT = 27017;
 const DBNAME = 'myfiles';
 private static $instance;
