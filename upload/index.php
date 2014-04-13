@@ -32,7 +32,6 @@ $objects = $gridFS->find();
 <?php include('../includes/header.php'); ?>
 <!-- ?php include('../includes/nav.php'); ? -->
 <?php include('../includes/sidebar.php'); ?>
-
 <div id="content">
 
 <h1>Uploaded Images</h1>
