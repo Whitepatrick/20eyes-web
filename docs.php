@@ -87,7 +87,7 @@
 </tr>
 
 <tr>
-	<td><p>Project Plan</p></td>
+	<td><p>Project Plan (Microsoft Project File)</p></td>
         <td><a href="class_docs/doge/doge_project.mpp">doge_project</a></td>
 </tr>
 
