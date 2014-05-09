@@ -46,7 +46,7 @@
 
 <tr>
 	<td><p>Resume</td>
-	<td><a href="class_docs/patrick_resume.docx" >DOC</a>/<a href="class_docs/patrick_resume.pdf">PDF</a></td>
+	<td><a href="class_docs/patrick_resume.docx" >DOC</a>/<a href="class_docs/patrick_resume.pdf" target="_blank">PDF</a></td>
 </tr>
 
 <tr>
