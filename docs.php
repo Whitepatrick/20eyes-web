@@ -103,11 +103,11 @@
 
 <tr>
 	<td><p>Floor Plan for Office and Warehouse</p></td>
-        <td><a href="class_docs/disc_media/floorplan.jpg">floorplan</a></td>
+        <td><a href="class_docs/disc_media/floorplan.jpg" target="_blank">floorplan</a></td>
 </tr>
 <tr>
         <td><p>Server Rack Diagram</p></td>
-        <td><a href="class_docs/disc_media/rack_diag.jpg">rack_diag</a></td>
+        <td><a href="class_docs/disc_media/rack_diag.jpg" target="_blank">rack_diag</a></td>
 </tr>
 <tr>
         <td><p>Dell Purchase Order</p></td>
