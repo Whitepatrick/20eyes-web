@@ -42,16 +42,7 @@
 <h3>Jenkins</h3>
 <p></p>
 
-<h3>Puppet</h3>
-<p></p>
-
-<h3>Hadoop</h3>
-<p></p>
-
 <h3>MongoDB</h3>
-<p></p>
-
-<h3>Deployinator</h3>
 <p></p>
 
 <h3>IPTables</h3>

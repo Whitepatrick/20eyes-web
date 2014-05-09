@@ -43,7 +43,6 @@
 
 <?php include('progress.php') ?>
 
-<a href="upload/index.php">Log In Here</a>
 
 </div>
 

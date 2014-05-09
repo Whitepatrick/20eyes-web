@@ -33,7 +33,7 @@
 <?php include('includes/sidebar.php'); ?>
 
 <div id="content">
-
+<p>(Tentative)</p>
 <h2>Project schedule for spring 2014 semester</h2>
 
 <h3>Week 1: January 13th - 19th</h3>
