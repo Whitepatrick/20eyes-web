@@ -4,13 +4,30 @@
 
 <!-- blah blah blah -->
 
-<h2>CURRENT: PHP + GridFS = The most fun I've had with MongoDB!</h2>
+<h2>CURRENT 5/29/2014: It's Log!</h2>
+
+<img src="images/elk.png" alt="ELK"><br>
+
+<p>In an effort to better understand the types of traffic I'm getting I have implemented an 'ELK' stack between my two
+rackspace servers. ELK stands for <a href="http://www.elasticsearch.org">Elasticsearch</a>, <a href="http://logstash.net">Logstash</a>, and <a href="http://rashidkpc.github.io/Kibana/">Kibana</a>. Currently I have it configured to parse my apache logs, access logs, and sys logs. The kibana dashboard is pretty fancy and has definitely given me a little more of a higher level of understanding about how my content is being interacted with. Diagrams showing this workflow can be viewed in the documents section of this site. It can also be live demo'd, contact me for a request.</p>
+
+<p><b>In other news:</b> I graduated from VCU this month. What an amazing experience! I'm very excited to see where
+the rest of this new chapter in my life takes me. Since graduating I have been exploring a few projects I wasn't able to previously due to time consumption of school projects. Two new things I'm working on (and very excited about) are:
+<br>
+<li>A Twitter bot written in python. Currently the function is to search for the latest tweet with the hashtag '#zing' and retweet it. Using the Tweepy library, the Python-Twitter library doesn't appeal to me. <a href="https://github.com/Whitepatrick/freshzings.git">GitHub repo</a></li>
+
+<li>A session handler writtin in PHP with MongoDB. During the last semester I wrote a session handler in PHP with MySQL and kind of regretted it. I now get the chance to write one for MongoDB which, in my opnion, should be faster and more felxible. <a href="https://github.com/Whitepatrick/session_handler.git">GitHub repo</a></li>
+
+<p>Stay tuned for future updates and new projects!</p> 
+
+<h2>PAST:</h2>
+
+<h3>PHP + GridFS = The most fun I've had with MongoDB!</h3>
 
 <img src="images/gridfs.png" alt="MongoDB"><br>
 
 <p>Started a new branch on my <a href="https://github.com/Whitepatrick/20eyes-web/tree/gridfs-upload">GitHub</a> repo for this project that will be a photo upload to MongoDB's GridFS using PHP. Had tried this previously but screwed up the branching on my Git repo, so this is the real deal! I won't make this feature live until I link the authentication section I made previously in PHP and MongoDB. Very excited about PHP and MongoDB!<br><br>Truly wish I would have done different school project that I'm currently working on in MongoDB instead of MySQL. Considering the use case Mongo would have been a better fit and far less complex.
 
-<h2>PAST:</h2>
 
 <h3>Great Success!</h3>
 

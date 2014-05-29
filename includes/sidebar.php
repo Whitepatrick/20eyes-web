@@ -15,5 +15,7 @@
 	<p><a href="http://github.com/Whitepatrick/20eyes-web">20eyes-web</a></p>
 	<p><a href="http://github.com/Whitepatrick/doge">Doge</a></p>
 	<p><a href="http://github.com/Whitepatrick/freshzings">Zingbot 9000</a></p>
+	<p><a href="http://github.com/Whitepatrick/session_handler">PHP+MongoDB Session Handler</a></p>
+
 	
 </div> <!-- end #sidebar -->
