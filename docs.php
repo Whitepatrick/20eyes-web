@@ -35,7 +35,7 @@
 
 <h1>Documents and Diagrams</h1>
 
-<p>Here is a collection of documents and diagrams I have created during my college career. Also included is my resume.</p></br></br>
+<p>Here is a collection of documents and diagrams I have created during my college career.</p></br></br>
 
 <table style="width:700px">
 
