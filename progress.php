@@ -4,7 +4,20 @@
 
 <!-- blah blah blah -->
 
-<h2>CURRENT 5/29/2014: It's Log!</h2>
+<h2>CURRENT 6/25/2014: Ruby!</h2>
+
+<img src="images/ruby.png" alt="Ruby"><br>
+
+<p>I'm in the middle of learning Ruby and I have to say it's incredibly fun.
+	Not doing anything major as of yet but, I have started a <a href="https://github.com/Whitepatrick/scpeace">small project</a> to
+	create an scp script that will shorten the lengthy commands I have to issue
+	to move things between my desktop and apartment storage server. The syntax
+	is fun and is faily powerful for something so easily picked up. <br>10 out of 10, would Ruby again.
+	</p>
+
+<h2>PAST:</h2>
+
+<h3>5/29/2014: It's Log!</h3>
 
 <img src="images/elk.png" alt="ELK"><br>
 
@@ -19,8 +32,6 @@ the rest of this new chapter in my life takes me. Since graduating I have been e
 <li>A session handler writtin in PHP with MongoDB. During the last semester I wrote a session handler in PHP with MySQL and kind of regretted it. I now get the chance to write one for MongoDB which, in my opnion, should be faster and more felxible. <a href="https://github.com/Whitepatrick/session_handler.git">GitHub repo</a></li>
 
 <p>Stay tuned for future updates and new projects!</p> 
-
-<h2>PAST:</h2>
 
 <h3>PHP + GridFS = The most fun I've had with MongoDB!</h3>
 

@@ -16,6 +16,6 @@
 	<p><a href="http://github.com/Whitepatrick/doge">Doge</a></p>
 	<p><a href="http://github.com/Whitepatrick/freshzings">Zingbot 9000</a></p>
 	<p><a href="http://github.com/Whitepatrick/session_handler">PHP+MongoDB Session Handler</a></p>
-
+	<p><a href="http://github.com/Whitepatrick/scpeace">Ruby scp script</a></p> 
 	
 </div> <!-- end #sidebar -->
