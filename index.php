@@ -36,9 +36,7 @@
 
 <div id="content">
 
-<h3>20 Eyes dot Org: Exploration into the World of Continuous Deployment</h3>
-
-<p>This site is an active account of projects I'm currently working on, and a record of past projects. Enjoy!</p>
+<h3>20 Eyes dot Org: A place for run-on sentances about computer stuff</h3>
 
 <?php include('progress.php') ?>
 
