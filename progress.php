@@ -12,7 +12,7 @@
 
 <p>Wow! A lot has happened since the last time I updated this. I moved to DC a few months ago after taking a QA job with an aggregation email company. I initially applied for their sys admin
 job but ended up being talked in to QA. So far it's been great! I've been writing some selenium tests in Java which is ..ok, but I still have some room to write command line tools in Ruby to
-make some routine tasks a little easier. The highlight so far is getting <a href="http://http://rundeck.org/">Rundeck</a> up and running to assist in building and rebuilding the various
+make some routine tasks a little easier. The highlight so far is getting <a href="http://rundeck.org/">Rundeck</a> up and running to assist in building and rebuilding the various
 QA environments. Trying to tackle this one in my down time at work, but I've made a fair amount of progress. The only thing I have left to do is assign access policies. 
 	</p>
 
