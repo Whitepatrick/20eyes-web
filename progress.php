@@ -4,15 +4,16 @@
 
 <!-- blah blah blah -->
 
-<h2>CURRENT 6/25/2014: Ruby!</h2>
+<h2>CURRENT</h2> 
 
-<img src="images/ruby.png" alt="Ruby"><br>
+<h3>10/24/2014: QA, Ruby, and Linux: A nerds tale</h3>
 
-<p>I'm in the middle of learning Ruby and I have to say it's incredibly fun.
-	Not doing anything major as of yet but, I have started a <a href="https://github.com/Whitepatrick/scpeace">small project</a> to
-	create an scp script that will shorten the lengthy commands I have to issue
-	to move things between my desktop and apartment storage server. The syntax
-	is fun and is faily powerful for something so easily picked up. <br>10 out of 10, would Ruby again.
+<img src="images/rundeck.png" alt="Rundeck"><br>
+
+<p>Wow! A lot has happened since the last time I updated this. I moved to DC a few months ago after taking a QA job with an aggregation email company. I initially applied for their sys admin
+job but ended up being talked in to QA. So far it's been great! I've been writing some selenium tests in Java which is ..ok, but I still have some room to write command line tools in Ruby to
+make some routine tasks a little easier. The highlight so far is getting <a href="http://http://rundeck.org/">Rundeck</a> up and running to assist in building and rebuilding the various
+QA environments. Trying to tackle this one in my down time at work, but I've made a fair amount of progress. The only thing I have left to do is assign access policies. 
 	</p>
 
 <h2>PAST:</h2>
