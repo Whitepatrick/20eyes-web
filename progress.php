@@ -1,17 +1,17 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<h1>Work In Progress</h1>
+<h2>Work In Progress</h2>
 
 <!-- blah blah blah -->
 
-<h2>CURRENT</h2> 
+<h1>CURRENT</h1> 
 
 <h3>11/1/2014: Editor Quest</h3>
 
 <p>Recently in an effort to get a deeper understanding of Linux I have been teaching 
 myself C. It's been going pretty well so far, a little less difficult than I originally thought it would be. I've been using <a href="http://en.wikipedia.org/wiki/The_C_Programming_Language">The C Programming Language 2nd Edition(K&R)</a> as a guide with some googling as well to fill in some questions about modern uses. A side project that has sprung up from this has been looking for a new editor to use. For quick edits, or a deeper view of a file than <a href="http://unixhelp.ed.ac.uk/CGI/man-cgi?less">less</a> would typically give me, I use vim, but I have also been using <a href="https://wiki.gnome.org/Apps/Gedit">gedit</a>. Gedit is suprisingly fun! It's very light weight and comes with a decent amount of 3rd party plugins and themes.</p>
 
-<h2>PAST:</h2>
+<h1>PAST:</h1>
 
 <h3>10/24/2014: QA, Ruby, and Linux: A nerds tale</h3>
 
