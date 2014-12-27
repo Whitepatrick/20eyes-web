@@ -15,7 +15,7 @@
 
 <meta name="author" content="Patrick White" />
 
-<link rel="stylesheet" type="text/css" href="lcars/app/css/style.css" media="screen"/>
+<link rel="stylesheet" type="text/css" href="style.css" media="screen"/>
 
 <title>20 Eyes Dot Org</title>
 
