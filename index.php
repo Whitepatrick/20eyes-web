@@ -36,7 +36,7 @@
 
 <div id="content">
 
-<h3>20 Eyes dot Org: A place for run-on sentences about computer stuff</h3>
+<h3>20 Eyes dot Org: A place for run-on sentences and typos about computer stuff</h3>
 
 <?php include('progress.php') ?>
 

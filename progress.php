@@ -6,12 +6,18 @@
 
 <h1>CURRENT</h1> 
 
+<h3>12/27/2014: 20eyes upgrade!</h3>
+
+<p>After reading a ton about Docker, I decided to upgrade my servers to Ubuntu 14.04. The upgrade  comes with an easier Docker install compared to Ubuntu 12.04. 12.04 required a kernal downgrade that I just wasn't in to at all. I started this project late one evening on a night before an early work day so obviously I didn't finish restoring the previous workflow I had using Jenkins to deploy this stuff to a production server.</p>
+
+<list>Lessons: learned
+
+<h1>PAST:</h1>
+
 <h3>11/1/2014: Editor Quest_test</h3>
 
 <p>Recently in an effort to get a deeper understanding of Linux I have been teaching 
 myself C. It's been going pretty well so far, a little less difficult than I originally thought it would be. I've been using <a href="http://en.wikipedia.org/wiki/The_C_Programming_Language">The C Programming Language 2nd Edition(K&R)</a> as a guide with some googling as well to fill in some questions about modern uses. A side project that has sprung up from this has been looking for a new editor to use. For quick edits, or a deeper view of a file than <a href="http://unixhelp.ed.ac.uk/CGI/man-cgi?less">less</a> would typically give me, I use vim, but I have also been using <a href="https://wiki.gnome.org/Apps/Gedit">gedit</a>. Gedit is suprisingly fun! It's very light weight and comes with a decent amount of 3rd party plugins and themes.</p>
-
-<h1>PAST:</h1>
 
 <h3>10/24/2014: QA, Ruby, and Linux: A nerds tale</h3>
 
