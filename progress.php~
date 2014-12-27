@@ -8,9 +8,19 @@
 
 <h3>12/27/2014: 20eyes upgrade!</h3>
 
-<p>After reading a ton about Docker, I decided to upgrade my servers to Ubuntu 14.04. The upgrade  comes with an easier Docker install compared to Ubuntu 12.04. 12.04 required a kernal downgrade that I just wasn't in to at all. I started this project late one evening on a night before an early work day so obviously I didn't finish restoring the previous workflow I had using Jenkins to deploy this stuff to a production server.</p>
+<p>After reading a ton about <a href="https://www.docker.com/">Docker</a>, I decided to upgrade my servers to Ubuntu 14.04. The upgrade  comes with an easier Docker install compared to Ubuntu 12.04. 12.04 required a kernal downgrade that I just wasn't in to at all. I started this project <a href="https://www.youtube.com/watch?v=AxcM3nCsglA">late one night</a> before an early work day so obviously I didn't finish restoring the previous workflow I had using Jenkins to deploy this stuff to a production server.</p>
 
-<list>Lessons: learned
+<p><b>LESSONS LEARNED</b></p>
+
+<ul>
+	<li>Have a plan! I really should have known this wasn't as simple as backing up my old config and system files. If I had taken the time to write down what I wanted, and the absolute minimum things required to get it running.</li>
+	<li>Don't be scared! I avoided this upgrade for a while because I was making too big of a deal about going dark for a little. The upgrade process is a process I've done several times on local machines, doing it on a remote server was no different at all</li>
+	<li>Jenkins rule! I'm fortunate enough at work to be able to use Atlassian tools, but I think considering my past experiences with Jenkins, I've grown to be somewhat partial to it. Bamboo is a phenomenal tool, but I will always pick Jenkins given the choice between the two.</li>
+	<li>Whoa, Docker.. My original plan was to drop a few containers on here to see exactly how portable thye are. It definitely isn't as easy as I assumed it would be, but actually gets more and more interesting the more I learn about it. More to come from this for sure.</li>
+
+<p><b>IN OTHER NEWS!</b></p> 
+
+<p>Etsy engineers <a href="https://twitter.com/mrtazz">Daniel Schauenberg</a> and <a href="https://twitter.com/ryan_frantz">Ryan Frantz</a> are coming to DC next month to speak about their engineering practices at <a href="https://codeascraft.com/">Etsy</a> and I am beyond stoked!!</p><p> I got a new <a href="images/bike.jpg" target="_blank">bike</a>! Masi Frame with all Campagnolo components. Too many hills on my commute to work to ride a single speed bike, I'm getting too old and round to hoof it up the 18th street hill like I used to be able to.</p>
 
 <h1>PAST:</h1>
 
