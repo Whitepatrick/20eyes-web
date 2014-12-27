@@ -9,7 +9,7 @@
 
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 
-<meta name="description" content="20 Eyes In Development" />
+<meta name="description" content="20 Eyes dot org" />
 
 <meta name="keywords" content="development" />
 
@@ -23,10 +23,7 @@
 
         <body>
 
-<!-- test test -->
-
                 <div id="wrapper">
-
 
 <?php include('includes/header.php'); ?> 
 
@@ -39,7 +36,6 @@
 <h3>20 Eyes dot Org: A place for run-on sentences and typos about computer stuff</h3>
 
 <?php include('progress.php') ?>
-
 
 </div>
 
