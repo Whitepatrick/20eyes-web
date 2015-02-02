@@ -7,7 +7,7 @@
 
 <p>I'm putting up a link to a seach all my GitHub repositories powered by <a href="http://github.com/etsy/hound" target="_blank">Hound</a>. I definitely need to post a little more, but wanted to get this up before heading to work. I'll post more later tonight (probably)!</p>
 
-<p><a href="http://hound.20eyes.org" target="_blank">Hound my GitHub!</a>
+<p><a href="http://hound.20eyes.org" target="_blank">Hound my GitHub!</a></p>
 
 
 <h1>PAST:</h1>
