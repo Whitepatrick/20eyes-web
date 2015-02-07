@@ -15,7 +15,7 @@ If you'd like to take a look at the script you can <a href="https://github.com/W
 
 <p>Work related I finally found a really good, very concise ruby gem to write our QA chat bot called 
 <a href="http://github.com/godfat/xmpp4r-robot" target="_blank">xmpp4r-robot</a>. Only one downside, 
-no support for Multi-User Chat(MUC). I was planning on having the bot idle in our QA chat room and 
+no support for Multi-User Chat (MUC). I was planning on having the bot idle in our QA chat room and 
 accept commands, report alerts, etc., spoke with the <a href="http://www.godfat.org/" target="_blank">owner</a> about it and he mentioned he may not have the time to work on it personally, but will definitely accept 
 pull requests. I think I'm going to do it, the MUC library for XMPP4R doesn't seem <b>THAT</b> bad.</p>
 

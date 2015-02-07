@@ -22,6 +22,10 @@ pull requests. I think I'm going to do it, the MUC library for XMPP4R doesn't se
 <p>Only a few very minor tweaks to Rundeck and I think I can shift in to only supporting the system and 
 no longer actively adding or testing jobs. I'm sure that sooner or later there will be more tasks to add.</p>
 
+<p><b>Edit</b>: Pretty sure <a href="http://github.com/etsy/hound" target="_blank">Hound</a> already initiates
+a pull on a scheduled basis, rendering that little script I wrote pretty worthless, but fun to write all 
+the same!</p>
+
 <h1>PAST:</h1>
 
 <h3>2/2/2015: Hound Search!</h3>
