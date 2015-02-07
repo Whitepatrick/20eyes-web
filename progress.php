@@ -3,14 +3,32 @@
 
 <h1>CURRENT</h1> 
 
+<h3>2/6/2015: Hound Search 2: Son of hound search, and other updates!</h3>
+
+<p>What a week.</p>
+
+<p>First off, I added a very adorable little script to my post Jenkins web build
+that initiates a git pull for all of the repos that are searchable within hound. I tried to 
+change the css but that turned out horribly so original css remains! Eventually I'm going to 
+create a separate jenkins job for this and trigger a pull when any repo gets a commit to master.
+If you'd like to take a look at the script you can <a href="https://github.com/Whitepatrick/utility_scripts/blob/master/pull.sh" target="_blank">here</a>.</p>
+
+<p>Work related I finally found a really good, very concise ruby gem to write our QA chat bot called 
+<a href="http://github.com/godfat/xmpp4r-robot" target="_blank">xmpp4r-robot</a>. Only one downside, 
+no support for Multi-User Chat (MUC). I was planning on having the bot idle in our QA chat room and 
+accept commands, report alerts, etc., spoke with the <a href="http://www.godfat.org/" target="_blank">owner</a> about it and he mentioned he may not have the time to work on it personally, but will definitely accept 
+pull requests. I think I'm going to do it, the MUC library for XMPP4R doesn't seem <b>THAT</b> bad.</p>
+
+<p>Only a few very minor tweaks to Rundeck and I think I can shift in to only supporting the system and 
+no longer actively adding or testing jobs. I'm sure that sooner or later there will be more tasks to add.</p>
+
+<h1>PAST:</h1>
+
 <h3>2/2/2015: Hound Search!</h3>
 
 <p>I'm putting up a link to a seach all my GitHub repositories powered by <a href="http://github.com/etsy/hound" target="_blank">Hound</a>. I definitely need to post a little more, but wanted to get this up before heading to work. I'll post more later tonight (probably)!</p>
 
 <p><a href="http://hound.20eyes.org" target="_blank">Hound my GitHub!</a></p>
-
-
-<h1>PAST:</h1>
 
 <h3>12/27/2014: 20eyes upgrade!</h3>
 

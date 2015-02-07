@@ -146,4 +146,15 @@ border-bottom:1px solid $ccc;
 
 #footer p {
 padding:10px;
-}               
+}
+
+#imgLft {
+	float: left;
+	margin: 10px;
+        padding: 10px;
+}
+
+
+
+
+               
