@@ -35,7 +35,7 @@
 <div id="content">
 
 <h3>20 Eyes dot Org: A place for run-on sentences and typos about computer stuff</h3>
-
+<img src="images/banner.png">
 <?php include('progress.php') ?>
 
 </div>
