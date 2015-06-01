@@ -6,6 +6,11 @@
 <h3>I'm moving EVERYTHING!</h3>
 
 <p>Looks like I'll be moving to NYC on July 31st, very excited for that! I'm also ditching rackspace to go with <a href="https://digitalocean.com/">Digital Ocean</a>.
+It's time to make the move in to co-habitation with my girlfriend. We've kept our relationship going after I moved out of Richmond and we'd like to live in the same
+town for once. For us to live together AND keep our jobs, we both have to transfer to our respective employer's New York offices.
+</b>
+I'm ditching rackspace because Digital Ocean is way cheaper and more powerful for what you pay for. <a href="https://www.youtube.com/watch?v=G05u7ihoYQA">BYE FELICIARACKSPACE</a>.
+</p>
 
 <h1>PAST:</h1>
 
