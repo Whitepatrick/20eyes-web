@@ -3,6 +3,8 @@
 
 <h1>CURRENT</h1> 
 
+<h1>PAST:</h1>
+
 <h3>3/29/2015: Jenkins & I.. R U N I T E D !
 <img style="float: right; margin: 0px 0px 15px 15px;" src="images/jenkins_patrick.png"/>
 </h3>
@@ -14,8 +16,6 @@
 Besides all the fun of playing with shiny new toys, work has been getting somewhat trying. The senior QA engineer quit to persue a different job (good for him as well!) which left quality assurance in a very dubious state. This was basically a breaking point for me, I hadn't been incredibly satisfied with my job in the past few months due to an huge spike in manual testing and time for creating very basic pieces of an automated testing framework was thrown out the window. A pile of meetings and conversations later we've finally convinced management that the value of manual testing may seem better from a very narrow view, in the long run it will cost us in technical debt, and possibly more employee exits. So for now we've been aforded a little bit of extra time to work on it. It's a small victory in my opinion, allowing me time to work on getting our tech team some better tools to work with is a step in the right direction but, the entire tech team needs to commit to this not as a pet project but as a project vital to our company staying in the modern era of software development.</p>
 
 <p><b>SOON:</b> I don't want to overload this post, will continue it in a few days!</p>
-
-<h1>PAST:</h1>
 
 <h3>2/6/2015: Hound Search 2: Son of hound search, and other updates!</h3>
 
