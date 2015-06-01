@@ -3,13 +3,22 @@
 
 <h1>CURRENT</h1> 
 
-<h3>I'm moving EVERYTHING!</h3>
+<h3>I'm moving EVERYTHING!
+<img style="float: right; margin: 0px 0px 15px 15px;" src="images/ruby_slippers.jpg"/>
+</h3>
 
 <p>Looks like I'll be moving to NYC on July 31st, very excited for that! I'm also ditching rackspace to go with <a href="https://digitalocean.com/">Digital Ocean</a>.
-It's time to make the move in to co-habitation with my girlfriend. We've kept our relationship going after I moved out of Richmond and we'd like to live in the same
-town for once. For us to live together AND keep our jobs, we both have to transfer to our respective employer's New York offices.
-</b>
-I'm ditching rackspace because Digital Ocean is way cheaper and more powerful for what you pay for. <a href="https://www.youtube.com/watch?v=G05u7ihoYQA">BYE FELICIARACKSPACE</a>.
+It's time to make the move into co-habitation with my girlfriend. We've kept our relationship going after I moved out of Richmond and we'd like to live in the same
+town for again, long distance for a year has been interesting, but we're over it. For us to live together AND keep our jobs, we both have to transfer to our respective 
+employer's New York offices. That's going to be significantly easier than one of us quitting and moving states.
+</br>
+I'm ditching rackspace because Digital Ocean is way cheaper I get double the RAM rackspace was giving me. <a href="https://www.youtube.com/watch?v=G05u7ihoYQA">BYE FELICIARACKSPACE</a>.
+</br>
+I've been experiencing crazy amounts of burnout at work and it's beggining to really effect my free time. Typically on the weekend I usually try checking out new tools I've
+read about during the week or continue work on ongoing projects, but lately I just haven't felt like doing it. I've decided to put the breaks on doing work stuff during non
+work hours for the time being. I've been slowly getting back in to ruby and working a lot on TDD using <a href="https://github.com/test-unit/test-unit">test-unit</a>. I had 
+been trying to pick up Java, but that was really only for work, I have never really cared too much about mastering Java. Eventually the plan is to turn this site in to 
+more of a fancy looking blog, instead of it's current reeeeeally good looking presentation.
 </p>
 
 <h1>PAST:</h1>
