@@ -11,9 +11,11 @@
 It's time to make the move into co-habitation with my girlfriend. We've kept our relationship going after I moved out of Richmond and we'd like to live in the same
 town for again, long distance for a year has been interesting, but we're over it. For us to live together AND keep our jobs, we both have to transfer to our respective 
 employer's New York offices. That's going to be significantly easier than one of us quitting and moving states.
-</br>
+</p>
+<p>
 I'm ditching rackspace because Digital Ocean is way cheaper I get double the RAM rackspace was giving me. <a href="https://www.youtube.com/watch?v=G05u7ihoYQA">BYE FELICIARACKSPACE</a>.
-</br>
+</p>
+<p>
 I've been experiencing crazy amounts of burnout at work and it's beggining to really effect my free time. Typically on the weekend I usually try checking out new tools I've
 read about during the week or continue work on ongoing projects, but lately I just haven't felt like doing it. I've decided to put the breaks on doing work stuff during non
 work hours for the time being. I've been slowly getting back in to ruby and working a lot on TDD using <a href="https://github.com/test-unit/test-unit">test-unit</a>. I had 
