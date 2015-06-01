@@ -18,7 +18,7 @@
 
 <link rel="stylesheet" type="text/css" href="style.css" media="screen"/>
 
-<title>20 Eyes Dot Org</title>
+<title>20 eyes dot org</title>
 
 </head>
 
@@ -34,7 +34,7 @@
 
 <div id="content">
 
-<h3>20 Eyes dot Org: A place for run-on sentences and typos about computer stuff</h3>
+<h3>20 eyes dot org: A place for run-on sentences and typos about computer stuff</h3>
 
 <?php include('progress.php') ?>
 
