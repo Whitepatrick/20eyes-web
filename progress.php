@@ -7,7 +7,7 @@
 <img style="float: right; margin: 0px 0px 15px 15px;" src="images/ruby_slippers.jpg"/>
 </h3>
 
-<p>Looks like I'll be moving to NYC on July 31st, very excited for that! I'm also ditching rackspace to go with <a href="https://digitalocean.com/">Digital Ocean</a>.
+<p>Well Looks like I'll be moving to NYC on July 31st, very excited for that! I'm also ditching rackspace to go with <a href="https://digitalocean.com/">Digital Ocean</a>.
 It's time to make the move into co-habitation with my girlfriend. We've kept our relationship going after I moved out of Richmond and we'd like to live in the same
 town for again, long distance for a year has been interesting, but we're over it. For us to live together AND keep our jobs, we both have to transfer to our respective 
 employer's New York offices. That's going to be significantly easier than one of us quitting and moving states.
