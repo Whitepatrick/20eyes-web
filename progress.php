@@ -4,7 +4,7 @@
 <h1>CURRENT</h1> 
 
 <h3>I'm moving EVERYTHING!
-<img style="float: right; margin: 0px 0px 15px 15px;" src="images/ruby_slippers.jpg"/>
+<img style="float: right; margin: 0px 0px 15px 15px;" src="images/ruby_slippers.png"/>
 </h3>
 
 <p>Well Looks like I'll be moving to NYC on July 31st, very excited for that! I'm also ditching rackspace to go with <a href="https://digitalocean.com/">Digital Ocean</a>.
