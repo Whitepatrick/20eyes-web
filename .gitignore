@@ -39,4 +39,5 @@ ehthumbs.db
 Thumbs.db
 scripts/*
 upload/lightbox.css
-
+upload/
+upload/*
