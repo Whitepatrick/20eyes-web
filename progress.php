@@ -3,6 +3,22 @@
 
 <h1>CURRENT</h1> 
 
+<h3>twenty eyes dot org: son of 20eyes!
+<img style="float: right; margin: 0px 0px 15px 15px;" src="images/frank.png"/>
+</h3>
+
+<p>
+Hello there! Since moving over to digital ocean for my web/utility VMs I've had a few
+upgrades. I'm currently collecting and indexing all my system logs and apache logs on cthulhu (VM1).
+Hastur is the second VM which does most of the behind the scenes work and is also running my
+jenkins instance. Eventually I'll add in a section to query live site metrics from elasticsearch.
+<br>
+In bigger news, I've got a working alpha version of my new and improved version of this page
+using <a href="http://www.sinatrarb.com/">Sinatra</a> and <a href="http://getbootstrap.com/">
+Bootstrap<a/>. I've still got some tweaking to do but it's a first step towards making this page a little more mobile friendly and visually appealing. I don't have to stomach to go full geocities so I'll just move up to the late 2000's B-)
+</p>
+
+<h1>PAST:</h1>
 <h3>I'm moving EVERYTHING!
 <img style="float: right; margin: 0px 0px 15px 15px;" src="images/ruby_slippers.png"/>
 </h3>
@@ -22,8 +38,6 @@ work hours for the time being. I've been slowly getting back in to ruby and work
 been trying to pick up Java, but that was really only for work, I have never really cared too much about mastering Java. Eventually the plan is to turn this site in to 
 more of a fancy looking blog, instead of it's current reeeeeally good looking presentation.
 </p>
-
-<h1>PAST:</h1>
 
 <h3>3/29/2015: Jenkins & I.. R U N I T E D !
 <img style="float: right; margin: 0px 0px 15px 15px;" src="images/jenkins_patrick.png"/>
