@@ -16,6 +16,8 @@ jenkins instance. Eventually I'll add in a section to query live site metrics fr
 In bigger news, I've got a working alpha version of my new and improved version of this page
 using <a href="http://www.sinatrarb.com/">Sinatra</a> and <a href="http://getbootstrap.com/">
 Bootstrap<a/>. I've still got some tweaking to do but it's a first step towards making this page a little more mobile friendly and visually appealing. I don't have to stomach to go full geocities so I'll just move up to the late 2000's B-). Check it out <a href="http://20eyes.org:8765">here</a>!!
+<br>
+UPDATE: Not yet fully operational.. hammering out a few kinks launching something like this in production
 </p>
 
 <h1>PAST:</h1>
