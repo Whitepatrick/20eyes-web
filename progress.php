@@ -12,12 +12,16 @@ Hello there! Since moving over to digital ocean for my web/utility VMs I've had 
 upgrades. I'm currently collecting and indexing all my system logs and apache logs on cthulhu (VM1).
 Hastur is the second VM which does most of the behind the scenes work and is also running my
 jenkins instance. Eventually I'll add in a section to query live site metrics from elasticsearch.
-<br>
+</p>
+<p>
 In bigger news, I've got a working alpha version of my new and improved version of this page
 using <a href="http://www.sinatrarb.com/">Sinatra</a> and <a href="http://getbootstrap.com/">
 Bootstrap</a>. I've still got some tweaking to do but it's a first step towards making this page a little more mobile friendly and visually appealing. I don't have to stomach to go full geocities so I'll just move up to the late 2000's B-). Check it out <a href="http://20eyes.org:8765">here</a>!!
-<br>
+</p>
+<p>
 NEWER UPDATE: Working.. sorta! <a href="http://20eyes.org:8765">click</a>!!
+</p>
+<p>
 UPDATE: Not yet fully operational.. hammering out a few kinks launching something like this in production
 </p>
 
