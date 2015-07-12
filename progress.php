@@ -3,7 +3,7 @@
 
 <h1>CURRENT</h1> 
 
-<h3>twenty eyes dot org: son of 20eyes!
+<h3>twenty eyes dot org 2: son of 20eyes!
 <img style="float: right; margin: 0px 0px 15px 15px;" src="images/frank.png"/>
 </h3>
 
