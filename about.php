@@ -60,10 +60,6 @@ up in Maryland, and lived in DC until 2010 when I moved to Richmond, VA, then mo
 <p>
   My desk in my old DC apartment
 </p>
-<h3>
-  I'm an emotionally mature adult who cares about working in a safe, and fair professional
-  environment.
-</h3>
 
 
 <?php include('includes/footer.php'); ?>
