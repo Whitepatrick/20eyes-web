@@ -36,6 +36,7 @@
 <h3>Contact Information</h3>
 <p>Patrick White</p>
 <a href="mailto:whitep@vcu.edu"><p>whitep@vcu.edu</p></a>
+<a href="https://github.com/Whitepatrick/resume", target="_blank">My Resume</a>
 
 
 <?php include('includes/footer.php'); ?>

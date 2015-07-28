@@ -60,7 +60,7 @@ up in Maryland, and lived in DC until 2010 when I moved to Richmond, VA, then mo
 <p>
   My desk in my old DC apartment
 </p>
-
+<h1><a href="https://github.com/Whitepatrick/resume", target="_blank">My Resume (.md & .pdf)</a>
 
 <?php include('includes/footer.php'); ?>
 
